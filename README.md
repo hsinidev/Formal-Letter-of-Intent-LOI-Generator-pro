@@ -28,7 +28,7 @@ Built with **React 18**, **TypeScript**, **Tailwind CSS**, and **Google Gemini 2
 ## 🚀 Live Demo
 
 Access the live application here:
-[**FormalLetter.doodax.com**](https://FormalLetter.doodax.com)
+[**doodax.com**](https://doodax.com/tools/letter-of-intent/index.html)
 
 ## 📂 Project Structure
 
