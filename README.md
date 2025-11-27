@@ -1,6 +1,6 @@
 # Formal Letter of Intent (LOI) Generator
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FormalLetter.doodax.com-indigo?style=for-the-badge&logo=rocket)](https://FormalLetter.doodax.com)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-doodax.com-indigo?style=for-the-badge&logo=rocket)](https://doodax.com/tools/letter-of-intent/index.html)
 [![Powered By](https://img.shields.io/badge/Powered_By-HSINI_MOHAMED-blue?style=for-the-badge&logo=github)](https://github.com/hsinidev)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 
